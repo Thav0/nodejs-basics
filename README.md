@@ -2,14 +2,16 @@
 
 In this project I've learned the basics of nodejs <br/>
 
-API basics <br/>
-HTTP verbs <br/>
-Async/Await <br/>
-Mongodb/Mongoose packages <br/>
-CRUD with nodejs <br/>
-Express package <br/>
-ES6 import/export <br/>
-Nodemon<br/>
+- API basics <br/>
+- HTTP verbs <br/>
+- Async/Await <br/>
+- Mongodb/Mongoose packages <br/>
+- CRUD with nodejs <br/>
+- Express package <br/>
+- ES6 import/export <br/>
+- Nodemon<br/>
+
+Used Insomnia as Rest Client
 
 ## Available Scripts
 
