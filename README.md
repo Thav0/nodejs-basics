@@ -2,14 +2,14 @@
 
 In this project I've learned the basics of nodejs <br/>
 
-API basics
-HTTP verbs
-Async/Await
-Mongodb/Mongoose packages
-CRUD with nodejs
-Express package
-ES6 import/export
-Nodemon
+API basics <br/>
+HTTP verbs <br/>
+Async/Await <br/>
+Mongodb/Mongoose packages <br/>
+CRUD with nodejs <br/>
+Express package <br/>
+ES6 import/export <br/>
+Nodemon<br/>
 
 ## Available Scripts
 
